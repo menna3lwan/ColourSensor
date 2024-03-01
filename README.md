@@ -14,4 +14,4 @@ This repository contains code and resources for a color detection system using *
 3. Place the sensor array near the surface you want to analyze.
 4. Observe the LED color change corresponding to the detected color.
 
-Feel free to explore the code, contribute, and adapt it for your specific applications! 🌈🔍🤖
+Feel free to explore the code, contribute, and adapt it for your specific applications! 🤖
